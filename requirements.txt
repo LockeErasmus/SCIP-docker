@@ -1,0 +1,2 @@
+PySCIPOpt>=4.0.0 # >= 4.x see https://pypi.org/project/PySCIPOpt/
+cvxpy
